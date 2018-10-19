@@ -5,7 +5,7 @@
 
 # Clone ChampSim repository
 ```
-git clone https://github.com/ChampSim/ChampSim.git
+forked from champsim git clone https://github.com/ashishTamu/ChampSim/ChampSim.git
 ```
 
 # Compile
