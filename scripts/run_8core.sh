@@ -1,4 +1,4 @@
-TRACE_DIR=/your/trace/directory/
+TRACE_DIR=./trace
 binary=${1}
 n_warm=${2}
 n_sim=${3}
