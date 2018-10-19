@@ -3,9 +3,10 @@
   <p> ChampSim is a trace-based simulator for a microarchitecture study. You can sign up to the public mailing list by sending an empty mail to champsim+subscribe@googlegroups.com. A set of traces used for the 2nd Cache Replacement Championship (CRC-2) can be found from this link. (http://bit.ly/2t2nkUj) <p>
 </p>
 
+This repo forked from champsim to build project on PPIP for ECEN676 course
 # Clone ChampSim repository
 ```
-forked from champsim git clone https://github.com/ashishTamu/ChampSim/ChampSim.git
+ git clone https://github.com/ashishTamu/ChampSim/ChampSim.git
 ```
 
 # Compile
