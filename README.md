@@ -4,10 +4,14 @@
 </p>
 
 This repo forked from champsim to build project on PPIP for ECEN676 course
-# Clone ChampSim repository
-```
- git clone https://github.com/ashishTamu/ChampSim.git
-```
+Steps:
+1. 
+  # Clone ChampSim repository
+  ```
+    git clone https://github.com/ashishTamu/ChampSim.git
+  ```
+2. Run env_setup.sh
+
 
 # Compile
 
@@ -79,11 +83,16 @@ included).  We STRONGLY recommend creating your own traces, covering
 a wide variety of program types and behaviors.
 
 The included Pin Tool champsim_tracer.cpp can be used to generate new traces.
-We used Pin 3.2 (pin-3.2-81205-gcc-linux), and it may require 
+We used Pin 3.7 (https://software.intel.com/sites/landingpage/pintool/downloads/pin-3.7-97619-g0d0c92f4f-gcc-linux.tar.gz), and it may require 
 installing libdwarf.so, libelf.so, or other libraries, if you do not already 
 have them. Please refer to the Pin documentation (https://software.intel.com/sites/landingpage/pintool/docs/81205/Pin/html/)
 for working with Pin 3.2.
 
+
+
+1. Download pin 3.7 from the link above and unzip in "pin" dir
+2. Get the benchmark and compile 
+3. use the binary to make trace
 
 **Use the Pin tool like this**
 ```
