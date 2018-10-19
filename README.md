@@ -6,7 +6,7 @@
 This repo forked from champsim to build project on PPIP for ECEN676 course
 # Clone ChampSim repository
 ```
- git clone https://github.com/ashishTamu/ChampSim/ChampSim.git
+ git clone https://github.com/ashishTamu/ChampSim.git
 ```
 
 # Compile
